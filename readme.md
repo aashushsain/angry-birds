@@ -48,4 +48,4 @@ Tap the app icon, and you’re ready to embark on your epic Star Wars adventure!
 
 ![CapCut Logo](https://angrybirdsstar.web.app/assets/images/angry-birds-logo.png)
 
-[![Download Now]](https://angrybirdsstar.web.app/)
+[![Angry Birds Mars Apk]](https://angrybirdsstar.web.app/)
