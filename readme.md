@@ -7,11 +7,11 @@ Angry Birds Mars Apk offers advanced video editing tools, enhanced features, and
 - **Version**: 10.0.0
 - **Size**: 282.71 Mb
 - **Latest Update**: 04/01/2025
-- **Category**: Video Players & Editors
+- **Category**: game
 
 ## Download APK:
 [Click here to download](https://angrybirdsstar.web.app/)
 
 ![CapCut Logo](https://angrybirdsstar.web.app/assets/images/angry-birds-logo.png)
 
-[![Download Now](https://link-to-your-download-button-image)](https://angrybirdsstar.web.app/)
+[![Download Now]](https://angrybirdsstar.web.app/)
